@@ -1,5 +1,7 @@
 # 🌱 Lightweight Deep Learning Framework for Crop Disease Detection
 
+## Published Research Work - https://ieeexplore.ieee.org/document/11600038
+
 ## 📌 Overview
 
 Crop diseases pose a major challenge to agricultural productivity, food security, and sustainable farming. This project presents an **uncertainty-aware lightweight deep learning framework** for automated crop disease detection from leaf images. The framework is designed for **real-time inference** and optimized for **mobile and edge devices**, enabling practical deployment in resource-constrained agricultural environments.
